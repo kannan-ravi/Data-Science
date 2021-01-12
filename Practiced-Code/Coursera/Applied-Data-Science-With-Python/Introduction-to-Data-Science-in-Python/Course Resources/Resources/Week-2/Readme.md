@@ -1,3 +1,0 @@
-# Introduction
-
-This folder contains second week resources...
